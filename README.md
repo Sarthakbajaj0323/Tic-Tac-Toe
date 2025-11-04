@@ -24,18 +24,6 @@ Built to demonstrate strong algorithmic thinking, recursion, and problem-solving
 
 ---
 
-## 🧠 Minimax Algorithm Overview  
-
-The **Minimax algorithm** explores all possible game outcomes to minimize loss and maximize winning chances.  
-The AI plays *perfectly*, ensuring the best move at every step.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshitagupta15june/Minimax-algorithm/main/Images/minimax-tree.png" alt="Minimax Algorithm Tree" width="600">
-</p>
-
-
----
-
 ## 🧰 Tech Stack  
 
 | Category | Tools / Technologies |

@@ -30,8 +30,9 @@ The **Minimax algorithm** explores all possible game outcomes to minimize loss a
 The AI plays *perfectly*, ensuring the best move at every step.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Tic-tac-toe-game-tree.svg" alt="Minimax Algorithm Tree" width="600">
+  <img src="https://raw.githubusercontent.com/akshitagupta15june/Minimax-algorithm/main/Images/minimax-tree.png" alt="Minimax Algorithm Tree" width="600">
 </p>
+
 
 ---
 
